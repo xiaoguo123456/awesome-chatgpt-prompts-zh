@@ -4,28 +4,18 @@
 
 ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，能够和你进行任何领域的对话。
 
-[国内中文版](https://chat.aimakex.com/i/1)
+[国内中文版](www.boyguors.cn)
 
 它能够生成类似于人类写作的文本。您只需要给出提示或提出问题，它就可以生成你想要的东西。
 
-<div align=center>
-<img src="https://user-images.githubusercontent.com/15922823/219698816-5196a5a0-7669-495e-a1d3-02fdadd3f507.png" width="400"/> 
-  <p>本LOGO是由人工智能生成的，非常酷炫！</p>
-</div>
 
-### **ChatGPT 帐号： https://fk.fq.mk**
 
-**[在 GitHub 上查看](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)**
 
-**[在 Gitee 上查看](https://gitee.com/PlexPt/awesome-chatgpt-prompts-zh)**
 
-------
+## 基于GPT3.5 和 4.0 的国内中文版AI问答
 
-## 基于GPT3.5 和 4.0 的国内中文版智造喵
+AI问答网站    www.boyguors.cn
 
-智造喵  https://chat.aimakex.com
-
-![image](https://user-images.githubusercontent.com/15922823/232669433-f5fa80b7-c7ae-4274-9f06-ad510e655d39.png)
 
 
 
@@ -61,18 +51,6 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 | 小说   | 它可以帮助你编写小说，包括各种类型的小说，如言情、悬疑、恐怖、科幻等。它可以帮助你创造有趣、引人入胜的情节和角色，并为你提供专业的写作技巧和建议。         |
 
 
-
-## 微信体验交流群
-
-加入ChatGPT体验交流群，与AI技术领域的专家和爱好者一起探讨最前沿的信息！与志同道合的人交流，共同提升你的知识水平！
-
-项目合作洽谈请联系微信 [点我](https://mp.weixin.qq.com/s/Ir7CadEXQnscxa1ZjDdOyw)   （请注明来意，如有关于仓库问题需讨论请参考下文入群讨论）。
-
-|                  直接加群                  |               如果前面的过期，加我拉你入群               |                          AI中文指南公众号                          |
-|:--------------------------------------:| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://github.com/PlexPt/chatgpt-java/assets/15922823/7118fe56-b07f-4be4-a69c-c8b44ac10c43" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/230634011-289efbe1-f2b1-4b1e-bddb-f56f5ea6f5f6.jpg" width="300"/> |  <img src="https://user-images.githubusercontent.com/15922823/218004565-bb632624-b376-4f01-8ce2-d7065107bf4a.png" width="300"/> |
-
- 
 
 
 # 正经指南
@@ -716,38 +694,3 @@ A small dog that misses home, with a sad look on its face and its tail tucked be
 ## 充当算法输出器
 我想让你充当算法输出器。我将输入算法描述，您将回复算法的c语言实现。我希望您只在一个唯一的代码块内回复代码，而不是其他任何内容。不要写解释。除非我指示您这样做，否则不要键入命令。
 
-
-# 图片实例
-
-#### [一些有趣的玩法](./USEAGE.md)
-
-## 中文语料库
-
- https://github.com/PlexPt/chatgpt-corpus
-
-大量不同分类的中文语料库，欢迎拿去炼丹，训练大模型。
-
-点击👇🏻传送链接，购买云服务器炼丹：
-- [**阿里云服务器**](https://51015.cn/ss/3vpds) 搜索选择 GPU 计算型
-- [**【腾讯云】服务器，低至4.2元/月**](https://curl.qcloud.com/NiGEWRdn) 选择 GPU 云服务器
-
-[讨论反馈](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/74)
-
-
-
-
-## 解除封印咒语
-
-#### 如果你想将你的 **ChatGPT** 调教成一只猫娘，最新的教程在这里 [猫娘持续讨论更新](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12)
-
-#### [更多猫娘玩法点这个](./cat.md)
-
-
-
-# Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=PlexPt/awesome-chatgpt-prompts-zh&type=Date)](https://star-history.com/#PlexPt/awesome-chatgpt-prompts-zh&Date)
-
-## 感谢
-
-[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)  本文部分内容翻译自此
